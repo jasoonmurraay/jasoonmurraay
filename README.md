@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jason Murray (@jasoonmurraay)
-- 👀 I’m interested in sports, video games, and learning more about tech!
-- 🌱 I’m currently learning the basics of web development!
+- 👀 I’m interested in sports, fitness, and learning more about tech!
+- 🌱 I’m currently working towards my first job in Web Development!
 - 📫 How to reach me ...
-    - Instagram
-    - Twitter
-    - LinkedIn
+    - Instagram @jasoonmurraay
+    - Twitter @jasoonmurraay
+    - LinkedIn https://www.linkedin.com/in/jason-murray-13b494174/
